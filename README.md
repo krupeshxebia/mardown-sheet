@@ -8,4 +8,4 @@
 
 
 [img 1]: https://static.thenounproject.com/png/2349396-200.png "Logo Title Text 2"
-[img 2]: https://image.flaticon.com/icons/png/512/129/129530.png "Logo Title Text 2"
+[img 2]: https://static.thenounproject.com/png/2349392-200.png "Logo Title Text 2"
