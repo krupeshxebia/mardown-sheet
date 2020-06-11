@@ -8,4 +8,4 @@
 
 
 [img 1]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"
-[img 2]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon24.png "Logo Title Text 2"
+[img 2]: https://image.flaticon.com/icons/svg/847/847969.svg "Logo Title Text 2"
