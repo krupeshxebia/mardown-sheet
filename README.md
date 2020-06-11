@@ -3,7 +3,7 @@
 
 | [Defining scope](https://www.google.com/) | [Gathering Requirements](https://www.google.com/) |
 | ----------------------------------------- | ------------------------------------------------- |
-|<p style="text-align: center">[Defining scope](https://www.google.com/)</p><br>![alt text][img 1]                         | [Gathering Requirements](https://www.google.com/)<br>![alt text][img 2]                                |
+|<p style="text-align: center">[Defining scope](https://www.google.com/)</p>![alt text][img 1]                         | [Gathering Requirements](https://www.google.com/)<br>![alt text][img 2]                                |
 | Col 1 row 2 info                          | Col 2 row 2 info                                  |
 
 
