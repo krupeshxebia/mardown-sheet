@@ -1,7 +1,7 @@
 ### Sample Table
 ---
 
-| [Defining scope](docs/topics/markdown_1.md)  | [Gathering Requirements](docs/topics/markdown_2.md) |
+| [Defining scope](https://www.google.com/)  | [Gathering Requirements](https://www.google.com/) |
 | ------------- | ------------- |
 |![alt text][logo]| ![alt text][logo]  |
 | Content Cell  | Content Cell  |
