@@ -1,5 +1,5 @@
 ### Sample Table
----
+
 
 | [Defining scope](https://www.google.com/) | [Gathering Requirements](https://www.google.com/) |
 | ----------------------------------------- | ------------------------------------------------- |
